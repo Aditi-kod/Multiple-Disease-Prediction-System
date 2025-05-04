@@ -10,8 +10,8 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 # loading the saved models
 
-diabetes_model = pickle.load(open('C:/Users/HP/Desktop/MDPS/trained_model.sav','rb'))
-heart_disease_model = pickle.load(open('C:/Users/HP/Desktop/MDPS/heart_disease_model (1).sav','rb'))
+diabetes_model = pickle.load(open('trained_model.sav','rb'))
+heart_disease_model = pickle.load(open('heart_disease_model (1).sav','rb'))
 
 #sidebar for navigation
 with st.sidebar:
