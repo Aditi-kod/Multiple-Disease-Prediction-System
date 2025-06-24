@@ -44,7 +44,6 @@ Increased lifestyle-related diseases demand fast and intelligent healthcare solu
 
 ## ⚙️ Installation & Setup
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/Aditi-kod/multiple-disease-prediction.git
 
